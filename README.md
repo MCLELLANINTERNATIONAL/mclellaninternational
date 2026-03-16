@@ -43,6 +43,7 @@ Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Versio
 ## Software Development Projects | BYU-Idaho
 
 ### Aircraft Maintenance Tracker – Python Application
+https://github.com/MCLELLANINTERNATIONAL/wdd330-1
 - Developed a maintenance tracking system to manage inspection schedules and aircraft service records.
 - Implemented data storage using **CSV and SQLite databases**.
 - Built automated scheduling logic using **Python datetime and file handling**.
@@ -51,6 +52,7 @@ Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Versio
 ---
 
 ### Task List Application (TypeScript)
+https://github.com/MCLELLANINTERNATIONAL/taskLists
 - Developed a task management application using **TypeScript and Node.js** to manage task creation, updates, and storage.
 - Implemented **asynchronous operations and recursion** to manage nested task structures.
 - Structured the project with **interfaces and classes** to improve maintainability and scalability.
@@ -58,6 +60,7 @@ Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Versio
 ---
 
 ### Handcrafted Haven – Full-Stack Marketplace Application
+https://github.com/MCLELLANINTERNATIONAL/stackstorm-handcrafted-haven
 - Developed a **full-stack artisan marketplace platform** using **Next.js, React, and TypeScript**.
 - Designed and implemented **seller dashboards, product pages, and dynamic navigation components**.
 - Built **responsive UI components and layouts** using modern front-end frameworks.
