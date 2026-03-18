@@ -70,6 +70,7 @@ https://github.com/MCLELLANINTERNATIONAL/stackstorm-handcrafted-haven
 ---
 
 ### Chamber of Commerce Web Application
+https://github.com/MCLELLANINTERNATIONAL/wdd230/chamber
 - Developed a **responsive web application** using **HTML, CSS, and JavaScript**.
 - Implemented **dynamic data loading using JSON and DOM manipulation**.
 - Integrated **external APIs to display live weather and business directory data**.
