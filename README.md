@@ -22,7 +22,7 @@ C# | Kotlin | Rust | C++ | Python | JavaScript | TypeScript
 HTML | CSS | REST APIs | JSON | Node.js | React | Next.js
 
 ### Databases
-PostgreSQL | MySQL | SQLite | pgAdmin4 | JSON Data Structures | CSV Data Storage
+PostgreSQL | MySQL | SQLite | pgAdmin4 | JSON Data Structures | CSV Data Storage | MongoDB
 
 ### Tools & Platforms
 Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code
