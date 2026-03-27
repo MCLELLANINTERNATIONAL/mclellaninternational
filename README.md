@@ -16,16 +16,20 @@ I combine software engineering skills with **extensive leadership and project ma
 # 🧰 Technologies & Tools
 
 ### Programming Languages
-C# | Kotlin | Rust | C++ | Python | JavaScript | TypeScript
+C# | Kotlin | Rust | C++ | Python | Java (JDK) | JavaScript | TypeScript
 
 ### Web Development
 HTML | CSS | REST APIs | JSON | Node.js | React | Next.js
+
+### APIs & Integration
+
+REST APIs | API Development | API Integration | JSON | OpenWeatherMap API
 
 ### Databases
 PostgreSQL | MySQL | SQLite | pgAdmin4 | JSON Data Structures | CSV Data Storage | MongoDB
 
 ### Tools & Platforms
-Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code
+Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code | IntelliJ IDEA
 
 ### DevOps & Containers
 Docker | Containerized Development Environments
