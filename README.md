@@ -35,7 +35,7 @@ Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code | IntelliJ IDEA
 Docker | Containerized Development Environments
 
 ### Testing & Quality Assurance
-pytest | Squash Test Management | API Testing | Integration Testing | System Testing
+pytest | Squash Test Management | API Testing | Integration Testing | System Testing 
 
 ### Development Practices
 Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Version Control
