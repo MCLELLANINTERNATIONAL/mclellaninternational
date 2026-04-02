@@ -5,7 +5,7 @@ Software Developer | Software Engineering Student
 
 Welcome to my GitHub profile.
 
-I am currently studying **Software Development at Brigham Young University–Idaho** and building projects in **Python, C#, Kotlin, Rust, C++, and JavaScript**.
+I am currently studying **Software Development at Brigham Young University–Idaho** and building projects in **Python, C#, Kotlin, Rust, C++, and JavaScript, Typescript**.
 
 My focus is on **full-stack development, systems programming, and scalable software solutions**. I enjoy designing systems that solve real-world problems and developing reliable applications using modern technologies.
 
@@ -29,13 +29,13 @@ REST APIs | API Development | API Integration | JSON | OpenWeatherMap API
 PostgreSQL | MySQL | SQLite | pgAdmin4 | JSON Data Structures | CSV Data Storage | MongoDB
 
 ### Tools & Platforms
-Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code | IntelliJ IDEA
+Git | GitHub | GitHub Projects (Kanban) | Trello | VS Code | IntelliJ IDEA | Vercel
 
 ### DevOps & Containers
 Docker | Containerized Development Environments
 
 ### Testing & Quality Assurance
-pytest | Squash Test Management | API Testing | Integration Testing | System Testing 
+pytest | Squash Test Management | API Testing | Integration Testing | System Testing | Postman | REST
 
 ### Development Practices
 Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Version Control
