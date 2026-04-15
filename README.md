@@ -46,6 +46,16 @@ Agile | Scrum | Kanban | Object-Oriented Programming | Software Testing | Versio
 
 ## Software Development Projects | BYU-Idaho
 
+### Aircraft Sensor Fault Detection System - Rust Application
+https://github.com/MCLELLANINTERNATIONAL/rust-aircraft-fault-detection
+
+- Developed a console-based Rust application to process aircraft sensor data and detect potential faults for predictive maintenance.
+- Implemented CSV parsing, threshold-based analysis, and persistent fault logging to classify issues by severity and support audit traceability.
+- Built modular components for data parsing, reporting, logging, and user interaction using Rust structs, impl blocks, vectors, and control flow.
+- Designed reporting features to analyse all aircraft or individual records, filter faults, and generate maintenance recommendations.
+
+---
+
 ### Aircraft Maintenance Tracker – Python Application
 https://github.com/MCLELLANINTERNATIONAL/wdd330-1
 - Developed a maintenance tracking system to manage inspection schedules and aircraft service records.
